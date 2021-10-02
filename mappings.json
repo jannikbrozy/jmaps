@@ -1,0 +1,24 @@
+{
+    "insert_mode" : [
+    ],
+    "normal_mode" : [
+        {
+            "key": "<leader>ff",
+            "func" : "<cmd>:NvimTreeToggle<CR>", 
+            "silent" : true,
+            "noremap" : true
+        }
+    ],
+    "visual_mode" : [ 
+
+    ],
+    "visual_block_mode" : [
+
+    ],
+    "command_mode" : [
+
+    ],
+    "term_mode" : [
+
+    ]
+}
